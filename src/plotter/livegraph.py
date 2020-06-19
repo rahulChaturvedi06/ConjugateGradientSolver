@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 # PYTHON SCRIPT FOR PLOTTING CONVERGENCE OF SOLVER IN REAL TIME
-# AUTHOR - GAUTAM GHOSH
+# AUTHOR - Rahul Chaturvedi
 # DATE   - 06/07/2020
 """
 import matplotlib.pyplot as plt
